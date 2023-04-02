@@ -1,4 +1,4 @@
-declare module 'kaguya-fca' {
+declare module 'Chatbot-Remake-KGY' {
     import type { Readable, Duplex, Transform } from "stream";
     import type EventEmitter from "events";
 
